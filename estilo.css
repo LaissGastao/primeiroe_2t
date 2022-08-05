@@ -1,0 +1,25 @@
+body {
+  background: hsl(268, 100%, 84%);
+}
+h1 {
+  text-align: center;
+}
+/*
+  position: absolute;
+  position: fixed;
+  position: sticky;
+  */
+.caixa1 {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #ffe59c;
+  left: 50px;
+}
+.MenuPrincipal {
+  position: absolute;
+  background: salmon;
+  width: 100%;
+  height: 100px;
+  top: 0;
+}
